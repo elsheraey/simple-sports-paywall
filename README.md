@@ -4,4 +4,4 @@ Simple paywall page built using HTML and CSS, which was implemented as a part of
 
 ## Preview
 
-![alt text](/preview.png)
+![preview](/preview.png)
